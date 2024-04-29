@@ -8,12 +8,18 @@ body{
   background-color: #e3e3e3;
   background-size: 450px;
   width: 1200px;
-  height: 1450px;
+  height: 1550px;
   line-height: 1.6em;
   position: absolute;
 }
 
 h1{
+  font-family: 'poppins', monospace;
+  color: #f95959;
+  text-align: center;
+}
+
+h2{
   font-family: 'poppins', monospace;
   color: #f95959;
   text-align: center;
